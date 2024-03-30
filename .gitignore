@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BAL/bin/Debug/net8.0
+/BAL/obj
+/Common/bin/Debug/net8.0
+/Common/obj
+/StudentManagementAPIDirectory/bin/Debug/net8.0
+/StudentManagementAPIDirectory/.vs/StudentManagementAPI/FileContentIndex
+/StudentManagementAPIDirectory/obj
